@@ -1,0 +1,288 @@
+head:
+  title: "Contornos consulora política"
+
+# showcase
+showcase:
+  enable: true
+  title: "¡Hola, somos Contornos!"
+  subtitle: "Consultora política"
+  description: "Ofrecemos asesoramiento político integral a partir del dominio de herramientas tradicionales y de análisis de datos."
+  image:
+    x: "img/showcase/logo01.png"
+    _2x: "img/showcase/logo01.png"
+  imageMobile:
+    x: "img/showcase/logo01.png"
+    _2x: "img/showcase/logo01.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contacto"
+    URL: "mailto:contornos.consultora@gmail.com"
+
+  socialLinks:
+    - icon: "twitter"
+      URL: "https://twitter.com/ContornosCP"
+
+# about
+about:
+  enable: true
+  title: "¿Quiénes somos?"
+  content: 
+    <p class="lead">
+    <strong><strong>Contornos Consultora Política</strong></strong> es un equipo de trabajo formado por profesionales especializados en <strong><strong>Políticas Públicas, Comunicación Política y Opinión Pública.</strong></strong>
+    </p>
+    <p class="lead">
+   La propuesta es que del diálogo con cada cliente surjan diagnósticos claros y propuestas factibles, medibles y que puedan ser evaluadas a lo largo de la implementación para alcanzar los objetivos acordados.
+   </p>
+   <p class="lead">
+   <strong><strong>¿Por qué contornos?</strong></strong> Porque cada producto y servicio que ofrecemos parte de una indagación <strong><strong>a fondo</strong></strong> y lo hacemos <strong><strong>delineando contornos</strong></strong>, haciendo foco en los elementos que decidimos estudiar.
+   </p>
+   
+  button:
+   icon: "icon-smile-fill"
+   btnText: "Servicios"
+   URL: "cv/brochure-boceto.pdf"
+  image:
+    x: "img/who-am-i/gif_contornos.gif"
+    _2x: "img/who-am-i/gif_contornos.gif"
+# experience
+experience:
+  enable: false
+  title: "Experience"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/resume-matt.pdf"
+
+  items:
+    - title: "Director of Product Engineering & Market Development"
+      company: "Bonney Forge"
+      duration: "Jan 2017 - Aug 2018"
+
+    - title: "Manager of Sales Engineering"
+      company: "Bonney Forge"
+      duration: "Mar 2014 - Jan 2017"
+
+    - title: "Manager of Product Engineering"
+      company: "Bonney Forge"
+      duration: "Nov 2011 - Mar 2014"
+      
+
+# education
+education:
+  enable: false
+  title: "Education"
+  items:
+    - university: "Penn State University"
+      year: "2014-2015"
+      degree: "Master of Business Administration (MBA)"
+
+    - university: "University of Pittsburgh"
+      year: "2008-2010"
+      degree: "Master of Industrial Engineering"
+      
+    - university: "Penn State University"
+      year: "2002-2006"
+      degree: "Bachelor of Mechanical Engineering"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Nuestro trabajo"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+
+  works:
+    - title: "Ránking de Gobernadores Argentinos en la Red"
+      description: "Esta app te va a permitir visualizar con claridad la presencia en redes de los gobernadores argentinos. La app te permite seleccionar el rango temporal de análisis con lo cual, si investigás estos temas, podés comparar, encontrar tendencias, continuidades o cambios. Es una herramienta muy útil para tener un diagnóstico de la cantidad de menciones  que estos actores tienen en la red; pero, además, conocer la carga emotiva de las opiniones sobre los gobernadores, porque el ránking incluye sobre el total, porcentajes de menciones muy positivas, positivas, negativas y muy negativas. Desde ese punto de partido, el ránking colabora con la elaboración de estrategias sobre diagnósticos sólidos, para potenciar o subsanar déficits, semana por semana, ya que la información es actualizada cada 8 días."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ver aplicación"
+        URL: "https://contornos.shinyapps.io/Gobernadores/"
+      image:
+        x: "img/works/gobernadores_portada.png"
+        _2x: "img/works/gobernadores_portada.png"
+      is_even: true
+
+    - title: "Ránking de Intendentes Bonaerenses en la Red"
+      description: "La app de intendentes bonaerenses muestra la cantidad de menciones de estos actores, ordenando los resultados para conformar un ránking con recortes temporales a elección del usuario: vos elegís qué rango temporal necesitás visualizar.Poder ver la cantidad de veces que un intendente es mencionado en redes es relevante a la hora de analizar el grado de conocimiento de los mismos y evaluar si es necesario realizar acciones para ajustar esa presencia en función de los objetivos fijados por el equipo de comunicación; pero, además, del total de menciones se pueden observar las que son muy positivas, positivas, negativas y muy negativas, porque es importante no solo estar en redes si no tener claro cómo. Como la información es actualizada cada 8 días, es una herramienta eficaz para realizar la evaluación y control de menciones en la red y la evolución de la carga emotiva de las mismas."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ver aplicación"
+        URL: "https://contornos.shinyapps.io/intendentes/"
+      image:
+        x: "img/works/intendentes_portada.png"
+        _2x: "img/works/intendentes_portada.png"
+      is_even: false
+      
+    - title: "Ránking de Políticos en los medios"
+      description: "Esta app permite conocer la cantidad, tipo de mención y conceptos asociados a los actores políticos que los medios incorporan en sus agendas. El recorte temporal a elección ayuda a realizar análisis de presencia mediática de dirigentes políticos y verificar su evolución, así como profundizar en aspectos más cualitativos en torno a los contenidos con los que se encuentran asociados sus nombres."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ver aplicación"
+        URL: "https://contornos.shinyapps.io/Agenda_medios/"
+      image:
+        x: "img/works/agenda_portada.png"
+        _2x: "img/works/agenda_portada.png"
+      is_even: true
+      
+ejemplo:
+  title: "NOSOTROS"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+
+  works:
+    - title: "Maru Wlasiuk"
+      description: "Directora de CONTORNOS CONSULTORA POLÍTICA"
+      description1: "Soy politóloga y docente universitaria de Análisis Político. Realicé posgrados en Comunicación Política y Opinión Pública y en Políticas Públicas. Desde hace 20 años me desempeño en tareas de asesoramiento en comunicación política e institucional en los ámbitos privado y público - legislativo y ejecutivo- en los niveles municipal, provincial y nacional."
+      button:
+        icon: "icon-linkedin-fill"
+        btnText: "Linkedin       "
+        URL: "https://www.linkedin.com/in/mariawlasiuk/"
+      image:
+        x: "img/works/mw.png"
+        _2x: "img/works/mw.png"
+      is_even: true
+
+    - title: "Lucas Vidal"
+      description: "Director ejecutivo de CONTORNOS CONSULTORA POLÍTICA"
+      description1: "Soy politólogo y profesor universitario de Sistemas Políticos Comparados. Hace unos años empecé a programar, principalmente con R, pero fui extendiendo a otros lenguajes como Python, CSS, HTML, etc. Me dedico al data analytics y data science, vinculando los grandes volúmenes de datos con la política."
+      button:
+        icon: "icon-linkedin-fill"
+        btnText: "Linkedin  "
+        URL: "https://www.linkedin.com/in/lucas-vidal-619429151/"
+      image:
+        x: "img/works/lv.png"
+        _2x: "img/works/lv.png"
+      is_even: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Equipo de trabajo"
+  items:
+  
+    - name: "Enrique Manzo"
+      position: "Relacionista Internacional / Especialista en Python"
+      image:
+        x: "img/testimonials/Enrique_Manzo.png"
+        _2x: "img/testimonials/Enrique_Manzo.png"
+        
+    - name: "Iván Campos"
+      position: "Fotógrafo/Videógrafo/Editor"
+      image:
+        x: "img/testimonials/ivan_campos.jpeg"
+        _2x: "img/testimonials/ivan_campos.jpeg"
+
+    - name: "Virginia Lasta"
+      position: "Diseñadora en Comunicación Visual"
+      image:
+        x: "img/testimonials/virginia.jpeg"
+        _2x: "img/testimonials/virginia.jpeg"
+
+    - name: "Joaquín Pastormerlo"
+      position: "Politólogo / Analista político"
+      image:
+        x: "img/testimonials/joaquin.jpg"
+        _2x: "img/testimonials/joaquin.jpg"
+    
+    - name: "Sofía Ravazzoli"
+      position: "Community manager"
+      image:
+        x: "img/testimonials/joaquin.jpg"
+        _2x: "img/testimonials/joaquin.jpg"    
+        
+
+# contact
+contact:
+  enable: true
+  title: "Contacto"
+    
+  image:
+    x: "img/works/mw_lv.png"
+    _2x: "img/works/mw_lv.png"
+    
+  button:
+    icon: "icon-profile-fill"
+    btnText: "Mandanos tu cv"
+    btnAction: 'https://forms.gle/N2VtPEpCSSL2DhUV9'
+    
+  phone:
+    title: "Número de telefono"
+    number: "+54 221-418-8966"
+  email:
+    title: "Email"
+    email: '<a href="mailto:contornos.consultora@gmail.com">contornos.consultora@gmail.com</a>'
