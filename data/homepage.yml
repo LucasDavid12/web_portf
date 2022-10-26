@@ -1,5 +1,5 @@
 head:
-  title: "Contornos consulora política"
+  title: "Contornos consultora política"
 
 # showcase
 showcase:
@@ -219,7 +219,7 @@ ejemplo:
 
     - title: "Lucas Vidal"
       description: "Director ejecutivo de CONTORNOS CONSULTORA POLÍTICA"
-      description1: "Soy politólogo y profesor universitario de Sistemas Políticos Comparados. Hace unos años empecé a programar, principalmente con R, pero fui extendiendo a otros lenguajes como Python, CSS, HTML, etc. Me dedico al data analytics y data science, vinculando los grandes volúmenes de datos con la política."
+      description1: "Soy politólogo y profesor universitario de Sistemas Políticos Comparados. Hace unos años empecé a programar, principalmente con R, pero me fui extendiendo a otros lenguajes como Python, CSS, HTML, etc. Me dedico al data analytics y data science, vinculando los grandes volúmenes de datos con la política."
       button:
         icon: "icon-linkedin-fill"
         btnText: "Linkedin  "
