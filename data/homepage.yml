@@ -262,8 +262,8 @@ testimonial:
     - name: "Sofía Ravazzoli"
       position: "Community manager"
       image:
-        x: "img/testimonials/joaquin.jpg"
-        _2x: "img/testimonials/joaquin.jpg"    
+        x: "img/testimonials/sofia.jpeg"
+        _2x: "img/testimonials/sofia.jpeg"    
         
 
 # contact
