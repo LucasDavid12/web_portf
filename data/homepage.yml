@@ -41,7 +41,7 @@ about:
   button:
    icon: "icon-smile-fill"
    btnText: "Servicios"
-   URL: "cv/brochure-boceto.pdf"
+   URL: "servicios.pdf"
   image:
     x: "img/who-am-i/gif_contornos.gif"
     _2x: "img/who-am-i/gif_contornos.gif"
