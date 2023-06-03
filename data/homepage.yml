@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "¡Hola, somos Contornos!"
+  title: "¡Hola, somos Contornos Consultora Política!"
   subtitle: "Consultora política"
   description: "Ofrecemos asesoramiento político integral a partir del dominio de herramientas tradicionales y de análisis de datos."
   image:
@@ -32,7 +32,7 @@ about:
     <strong><strong>Contornos Consultora Política</strong></strong> es un equipo de trabajo formado por profesionales especializados en <strong><strong>Políticas Públicas, Comunicación Política y Opinión Pública.</strong></strong>
     </p>
     <p class="lead">
-   La propuesta es que del diálogo con cada cliente surjan diagnósticos claros y propuestas factibles, medibles y que puedan ser evaluadas a lo largo de la implementación para alcanzar los objetivos acordados.
+   La propuesta es que del diálogo con cada cliente surjan diagnósticos claros y propuestas factibles, medibles, que puedan ser evaluadas a lo largo de la implementación para alcanzar los objetivos acordados.
    </p>
    <p class="lead">
    <strong><strong>¿Por qué contornos?</strong></strong> Porque cada producto y servicio que ofrecemos parte de una indagación <strong><strong>a fondo</strong></strong> y lo hacemos <strong><strong>delineando contornos</strong></strong>, haciendo foco en los elementos que decidimos estudiar.
@@ -135,7 +135,7 @@ client_and_work:
 
   works:
     - title: "Ránking de Gobernadores Argentinos en la Red"
-      description: "Esta app te va a permitir visualizar con claridad la presencia en redes de los gobernadores argentinos. La app te permite seleccionar el rango temporal de análisis con lo cual, si investigás estos temas, podés comparar, encontrar tendencias, continuidades o cambios. Es una herramienta muy útil para tener un diagnóstico de la cantidad de menciones  que estos actores tienen en la red; pero, además, conocer la carga emotiva de las opiniones sobre los gobernadores, porque el ránking incluye sobre el total, porcentajes de menciones muy positivas, positivas, negativas y muy negativas. Desde ese punto de partido, el ránking colabora con la elaboración de estrategias sobre diagnósticos sólidos, para potenciar o subsanar déficits, semana por semana, ya que la información es actualizada cada 8 días."
+      description: "Esta app te va a permitir visualizar con claridad la presencia en redes de los gobernadores argentinos. La app te permite seleccionar el rango temporal de análisis con lo cual, si investigás estos temas, podés comparar, encontrar tendencias, continuidades o cambios. Es una herramienta muy útil para tener un diagnóstico de la cantidad de menciones que estos actores tienen en la red y a su vez, conocer la carga emotiva de las opiniones sobre los gobernadores, ya que el ránking incluye sobre el total, porcentajes de menciones muy positivas, positivas, negativas y muy negativas. Desde ese punto de partida, el ránking colabora con la elaboración de estrategias sobre diagnósticos sólidos, para potenciar o subsanar déficits, semana por semana, ya que la información se actualiza cada 8 días."
       button:
         icon: "icon-arrow-right"
         btnText: "Ver aplicación"
@@ -146,7 +146,7 @@ client_and_work:
       is_even: true
 
     - title: "Ránking de Intendentes Bonaerenses en la Red"
-      description: "La app de intendentes bonaerenses muestra la cantidad de menciones de estos actores, ordenando los resultados para conformar un ránking con recortes temporales a elección del usuario: vos elegís qué rango temporal necesitás visualizar. Poder ver la cantidad de veces que un intendente es mencionado en redes es relevante a la hora de analizar el grado de conocimiento de los mismos y evaluar si es necesario realizar acciones para ajustar esa presencia en función de los objetivos fijados por el equipo de comunicación; pero, además, del total de menciones se pueden observar las que son muy positivas, positivas, negativas y muy negativas, porque es importante no solo estar en redes si no tener claro cómo. Como la información es actualizada cada 8 días, es una herramienta eficaz para realizar la evaluación y control de menciones en la red y la evolución de la carga emotiva de las mismas."
+      description: "La app de intendentes bonaerenses muestra la cantidad de menciones de estos actores, ordenando los resultados para conformar un ránking con recortes temporales a elección del usuario: vos elegís qué rango temporal necesitás visualizar. Podés ver la cantidad de veces que un intendente es mencionado en redes, lo cual es relevante a la hora de analizar el grado de conocimiento de los mismos y evaluar si es necesario realizar acciones para ajustar esa presencia en función de los objetivos fijados por el equipo de comunicación. Además del total de menciones se pueden observar cuáles son muy positivas, positivas, negativas y muy negativas, porque es importante estar en redes, pero más aún saber cómo. Como la información es actualizada cada 8 días, es una herramienta eficaz para realizar la evaluación y control de menciones en la red y la evolución de la carga emotiva de las mismas."
       button:
         icon: "icon-arrow-right"
         btnText: "Ver aplicación"
@@ -258,14 +258,8 @@ testimonial:
       image:
         x: "img/testimonials/joaquin.jpg"
         _2x: "img/testimonials/joaquin.jpg"
-    
-    - name: "Sofía Ravazzoli"
-      position: "Community manager"
-      image:
-        x: "img/testimonials/sofia.jpeg"
-        _2x: "img/testimonials/sofia.jpeg"    
+     
         
-
 # contact
 contact:
   enable: true
