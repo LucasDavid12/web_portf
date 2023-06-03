@@ -5,7 +5,6 @@ head:
 showcase:
   enable: true
   title: "¡Hola, somos Contornos Consultora Política!"
-  subtitle: "Consultora política"
   description: "Ofrecemos asesoramiento político integral a partir del dominio de herramientas tradicionales y de análisis de datos."
   image:
     x: "img/showcase/logo01.png"
